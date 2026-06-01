@@ -1,0 +1,6 @@
+{
+  "name": "OmniScience 3D",
+  "description": "An immersive 3D learning sandbox exploring Physics, Chemistry, Biology, Computer Science, Advanced Math, History, Philosophy, Ethical Hacking, and Religion, integrated with a responsive AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
